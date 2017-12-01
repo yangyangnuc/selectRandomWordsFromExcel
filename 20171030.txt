@@ -1,0 +1,40 @@
+next-generation sequencing 	下一代测序
+intensity signal 		强度信号
+approache			方法，接近
+biase				偏差，偏见
+methodological			方法的
+platform			平台
+workhorse			主力军
+staggering			迫切的
+commercial			商业的
+accuracy			准确度
+variability			变化
+genome				基因组
+individual			个体的
+technology			技术
+analyze				分析（动词）
+pipeline			管线、流程
+analysis			分析（动词）
+coverage			覆盖率
+consensus			一致性
+conversely			相反地
+robustness			健壮性
+low-quality			低质量的
+index				索引
+chastity			简洁
+demultiplex			多路复用
+guideline			指导方针
+probability			可能性
+look-up table		查表
+aggregate			合计
+binary				二进制
+Thumbnail			缩略图
+instrument			仪器
+module				模块
+diagnostic procedure			诊断流程
+proprietary			所有权
+product Catalog		产品目录
+revision history 	修正历史
+annual preventive maintenance	年度预防性维护
+Appendix A			附录A		
+Real-Time Analysis 	实时分析
