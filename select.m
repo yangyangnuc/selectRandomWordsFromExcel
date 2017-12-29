@@ -5,7 +5,7 @@ N = 30;
 
 % [status,sheets] = xlsfinfo('vocabulary.xlsx');
 
-[num,txt,raw] = xlsread('vocabulary-20171218.xlsx');
+[num,txt,raw] = xlsread('vocabulary-20171229.xlsx');
 
 AllIndexIntoRandom = randperm(numel(txt),N);
 
